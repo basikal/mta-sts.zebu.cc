@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
-mx: mx1.zebu.cc
-mx: mx2.zebu.cc
+mx: inbound-smtp.skiff.com
 max_age: 604800
