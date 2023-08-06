@@ -2,5 +2,4 @@ version: STSv1
 mode: enforce
 mx: mx1.zebu.cc
 mx: mx2.zebu.cc
-mx: mx3.zebu.cc
 max_age: 604800
